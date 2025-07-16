@@ -7,6 +7,8 @@
 *.dll
 *.so
 *.dylib
+go_build_github_com_philipppollmann_terraform_difference
+.idea
 
 # Test binary, built with `go test -c`
 *.test
